@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/richarambhia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="direshpradhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richarambhia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rrambhia22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Follow my Tableau Profile</h3>
-<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://e7.pngegg.com/pngimages/537/547/png-clipart-tableau-software-computer-software-business-intelligence-software-nyse-data-data-company-logo.png" alt="richarambhia"/> </a> 
+<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://e7.pngegg.com/pngimages/537/547/png-clipart-tableau-software-computer-software-business-intelligence-software-nyse-data-data-company-logo.png" alt="rrambhia22" height="30" width="40"/> </a> 
 </p>
 
 <h3 align="left">Languages, Tools, Libraries</h3>
