@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Follow my Tableau Profile</h3>
-<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" alt="richarambhia"/> </a> 
+<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://e7.pngegg.com/pngimages/537/547/png-clipart-tableau-software-computer-software-business-intelligence-software-nyse-data-data-company-logo.png" alt="richarambhia"/> </a> 
 </p>
 
 <h3 align="left">Languages, Tools, Libraries</h3>
