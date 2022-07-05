@@ -36,12 +36,13 @@ methods, statistical computing methods, data visualization, regression analysis 
 <h3 align="left">Technical Skills</h3>
 <p align="left">
 
-- **Programming Languages :** Python, R, SQL, Java, C, HTML, CSS
-
-- **Packages :** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, NLTK, GGplot, Rshiny
-
-- **IDEs :** Anaconda, Jupyter Notebook, Visual Studio, R Studio, Eclipse
-
-- **Software and Tools :** MySQL, Tableau, Advanced Excel, GitHub, Microsoft Office, Selenium, Jira
+- **Industry Knowledge:** Probability, Machine Learning, Big Data Analytics, NLP, Web Development 
+- **Programming Languages:** Python, R, SQL, Java, C, HTML, CSS
+- **Machine Learning:** Classification, Regression
+- **Statistics & Probability:** Regression Analysis, Hypothesis Testing, Linear Programming
+- **Data Visualization:** Tableau, GGplot, Rshiny, Matplotlib
+- **Packages:** Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, NLTK, Streamlit
+- **IDEs:** Anaconda, Jupyter Notebook, Visual Studio, R Studio 
+- **Software and Tools:** MySQL, Tableau, Git, Microsoft Office, Eclipse, Selenium, Maven, Jira
 
 </p>
