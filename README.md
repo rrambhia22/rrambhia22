@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Follow my Tableau Profile</h3>
-<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://www.gocrisp.com/wp-content/uploads/2021/07/Tableau-Emblem.png" alt="rrambhia22" height="40" width="50"/> </a> 
+<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://public.tableau.com/app/assets/images/tableau-public-logo-with-padding.png" alt="rrambhia22" height="40" width="50"/> </a> 
 </p>
 
 <h3 align="left">Languages, Tools, Libraries</h3>
