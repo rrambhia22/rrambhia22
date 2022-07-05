@@ -2,8 +2,8 @@
 <h3 align="center">A Data Science Enthusiast and Masters student at Northeastern University</h3>
 
 
-<h2 align="left">Highly analytical and process-oriented, passionate about data science and data analysis with knowledge of analytical 
-methods, statistical computing methods, data visualization, regression analysis and data technologies and tools. </h2>
+<h4 align="left">Highly analytical and process-oriented, passionate about data science and data analysis with knowledge of analytical 
+methods, statistical computing methods, data visualization, regression analysis and data technologies and tools. </h4>
 
 
 - 👨🏽‍🎓 I am currently pursuing Masters in Analytics at [Northeastern University](https://www.northeastern.edu/)
@@ -17,21 +17,15 @@ methods, statistical computing methods, data visualization, regression analysis 
 - 💬 Ask me about **Python, R, SQL, Exploratory Analysis, Data Visualization (Tableau), Data Analytics, ML, Streamlit**
 
 
-# Programming Languages 
+<h5 align="center"> Technical Skills </h5>
 
-Python, R, SQL, Java, C, HTML, CSS
+- Programming Languages : Python, R, SQL, Java, C, HTML, CSS
 
-# Packages 
+- Packages : Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, NLTK, GGplot, Rshiny
 
-Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-Learn, NLTK, GGplot, Rshiny
+- IDEs : Anaconda, Jupyter Notebook, Visual Studio, R Studio, Eclipse
 
-# IDEs 
-
-Anaconda, Jupyter Notebook, Visual Studio, R Studio, Eclipse
-
-# Software and Tools 
-
-MySQL, Tableau, Advanced Excel, GitHub, Microsoft Office, Selenium, Jira
+- Software and Tools : MySQL, Tableau, Advanced Excel, GitHub, Microsoft Office, Selenium, Jira
 
 
 <h3 align="left">Connect with me</h3>
