@@ -1,20 +1,20 @@
 <h1 align="center">Hello folks 👋, I am Richa Rambhia </h1>
-<h3 align="center">A Data Science Enthusiast and Masters student at Northeastern University</h3>
+<h3 align="center">A Data Enthusiast and Masters student at Northeastern University</h3>
 
 
 <h5 align="center">Highly analytical and process-oriented, passionate about data science and data analysis with knowledge of analytical 
 methods, statistical computing methods, data visualization, regression analysis and data technologies and tools. </h5>
 
 
-- 👨🏽‍🎓 I am currently pursuing Masters in Analytics at [Northeastern University](https://www.northeastern.edu/)
+- 👨🏽‍🎓 I am currently pursuing Masters in Data Analytics at [Northeastern University](https://www.northeastern.edu/)
 
-- 📚 I am currently learning **Data Analytics & Machine Learning/Artificial Intelligence**
+- 📚 Learning **Data Analytics & Machine Learning/Artificial Intelligence**
 
 - 📫 How to reach me **rrambhia22@gmail.com**
 
 - 😄 Pronouns: Programmer/She/Her/Hers
 
-- 💬 Ask me about **Python, R, SQL, Exploratory Analysis, Data Visualization (Tableau), Data Analytics, ML, Streamlit**
+- 💬 Ask me about **Python, R, SQL, Exploratory Analysis, Data Visualization (Tableau), Data Analytics, Machine Learning, Streamlit**
 
 
 
