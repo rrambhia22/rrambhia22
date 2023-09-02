@@ -6,9 +6,13 @@
 methods, statistical computing methods, data visualization, regression analysis, and data technologies/tools. </h5>
 
 
+- 🌐 Grace Hopper Celebration (GHC) 2023 Attendee
+  
 - 👨🏽‍🎓 Graduate student from Northeastern University with a master's degree in Data Analytics.
 
-- 📚 Learning **Data Analytics & Machine Learning/Artificial Intelligence**
+- 👩‍💻 Computer Engineer from the University of Mumbai, India.
+
+- 📚 Learning **Data Science & Analytics | Machine Learning | Artificial Intelligence**
 
 - 📫 How to reach me **rrambhia22@gmail.com**
 
