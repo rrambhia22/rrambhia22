@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks 👋, I am Richa Rambhia </h1>
-<h3 align="center">Computer Engineer from the University of Mumbai, Data Analytics Student from Northeastern University, Tableau Certified, and a Data Enthusiast.</h3>
+<h4 align="center">Computer Engineer from the University of Mumbai, Data Analytics Student from Northeastern University, Tableau Certified, and a Data Enthusiast.</h4>
 
 
 <h5 align="center">Highly analytical and process-oriented. Passionate about Data Science and Data Analysis with knowledge of analytical 
