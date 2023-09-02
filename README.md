@@ -1,12 +1,12 @@
 <h1 align="center">Hello folks 👋, I am Richa Rambhia </h1>
-<h3 align="center">A Data Enthusiast and Masters student at Northeastern University</h3>
+<h3 align="center">A Data Enthusiast and Graduate student at Northeastern University</h3>
 
 
-<h5 align="center">Highly analytical and process-oriented, passionate about data science and data analysis with knowledge of analytical 
-methods, statistical computing methods, data visualization, regression analysis and data technologies and tools. </h5>
+<h5 align="center">Highly analytical and process-oriented. Passionate about Data Science and Data Analysis with knowledge of analytical 
+methods, statistical computing methods, data visualization, regression analysis, and data technologies/tools. </h5>
 
 
-- 👨🏽‍🎓 I am currently pursuing Masters in Data Analytics at [Northeastern University](https://www.northeastern.edu/)
+- 👨🏽‍🎓 Graduate student from Northeastern University with a master's degree in Data Analytics.
 
 - 📚 Learning **Data Analytics & Machine Learning/Artificial Intelligence**
 
@@ -14,7 +14,7 @@ methods, statistical computing methods, data visualization, regression analysis 
 
 - 😄 Pronouns: Programmer/She/Her/Hers
 
-- 💬 Ask me about **Python, R, SQL, Exploratory Analysis, Data Visualization (Tableau), Data Analytics, Machine Learning, Streamlit**
+- 💬 Ask me about **Python, R Programming, SQL, Exploratory Analysis, Data Visualization (Tableau, PowerBI, Qlik), Data Analytics, Alteryx, Machine Learning, Streamlit, AWS Cloud**
 
 
 
@@ -36,13 +36,15 @@ methods, statistical computing methods, data visualization, regression analysis 
 <h3 align="left">Technical Skills</h3>
 <p align="left">
 
-- **Industry Knowledge:** Statistics, Probability, Machine Learning, Big Data Analytics, NLP, Web Development 
+- **Industry Knowledge:** Machine Learning, Big Data Analytics, NLP, Web Development 
 - **Programming Languages:** Python, R Programming, SQL, Java, C, HTML, CSS
-- **Machine Learning:** Classification, Regression, Clustering
+- **Machine Learning:** Classification, Regression, Clustering, Deep Learning
 - **Statistics & Probability:** Regression Analysis, Hypothesis Testing, Linear Programming
-- **Data Visualization:** Tableau, PowerBI, GGplot, Rshiny, Matplotlib, Seaborn
+- **Data Visualization:** Tableau, PowerBI, GGplot, RShiny, Matplotlib, Seaborn
+- **ETL Tools:** Alteryx
 - **Packages:** Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, NLTK, Streamlit
+- **Cloud:** AWS, Hadoop, Spark
 - **IDEs:** Anaconda, Jupyter Notebook, Visual Studio, R Studio 
-- **Software and Tools:** MySQL, Tableau, Alteryx, Git, Microsoft Office, Eclipse, Selenium, Maven, Jira
+- **Software and Tools:** MySQL, GitHub, Microsoft Office, Eclipse, Selenium, Maven, Jira
 
 </p>
