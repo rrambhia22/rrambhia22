@@ -6,7 +6,7 @@
 methods, statistical computing methods, data visualization, regression analysis, and data technologies/tools. </h5>
 
 
-- 🌐 Grace Hopper Celebration (GHC) 2023 Attendee
+- 🌐 Grace Hopper Celebration (GHC) 2023 Attendee. https://ghc.anitab.org/
   
 - 👨🏽‍🎓 Graduate student from Northeastern University with a master's degree in Data Analytics.
 
@@ -19,6 +19,8 @@ methods, statistical computing methods, data visualization, regression analysis,
 - 😄 Pronouns: Programmer/She/Her/Hers
 
 - 💬 Ask me about **Python, R Programming, SQL, Exploratory Analysis, Data Visualization (Tableau, PowerBI, Qlik), Data Analytics, Alteryx, Machine Learning, Streamlit, AWS Cloud**
+
+- 📝 Blog: https://rrambhia22.wixsite.com/richarambhia/blog
 
 
 
