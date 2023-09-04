@@ -20,6 +20,8 @@ methods, statistical computing methods, data visualization, regression analysis,
 
 - 💬 Ask me about **Python, R Programming, SQL, Exploratory Analysis, Data Visualization (Tableau, PowerBI, Qlik), Data Analytics, Alteryx, Machine Learning, Streamlit, AWS Cloud**
 
+- 🏆 Check out my Letter of Recommendation from NEU Professors: https://drive.google.com/drive/folders/1iUjVRCNyb2RDR5znmQWc_Y-SC-563Dii?usp=sharing
+
 - 📝 Blog: https://rrambhia22.wixsite.com/richarambhia/blog
 
 
