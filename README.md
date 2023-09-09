@@ -51,7 +51,7 @@ methods, statistical computing methods, data visualization, regression analysis,
 - **Data Visualization:** Tableau, PowerBI, GGplot, RShiny, Matplotlib, Seaborn
 - **ETL Tools:** Alteryx
 - **Packages:** Pandas, NumPy, Matplotlib, SciPy, Scikit-Learn, NLTK, Streamlit
-- **Cloud:** AWS, Hadoop, Spark
+- **Cloud:** AWS, Hadoop, Spark, Snowflake
 - **IDEs:** Anaconda, Jupyter Notebook, Visual Studio, R Studio 
 - **Software and Tools:** MySQL, GitHub, Microsoft Office, Eclipse, Selenium, Maven, Jira
 
