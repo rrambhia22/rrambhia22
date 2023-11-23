@@ -6,6 +6,8 @@
 methods, statistical computing methods, data visualization, regression analysis, and data technologies/tools. </h5>
 
 
+- 💙 Insights Analyst @Blue Cross Blue Shield of North Carolina. https://www.bluecrossnc.com/
+
 - 🌐 Grace Hopper Celebration (GHC) 2023 Attendee. https://ghc.anitab.org/
   
 - 👨🏽‍🎓 Graduate student from Northeastern University with a master's degree in Data Analytics.
