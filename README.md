@@ -6,6 +6,7 @@
 methods, statistical computing methods, data visualization, regression analysis, and data technologies/tools. </h5>
 
 
+
 - 💙 Insights Analyst @Blue Cross Blue Shield of North Carolina. https://www.bluecrossnc.com/
 
 - 🌐 Grace Hopper Celebration (GHC) 2023 Attendee. https://ghc.anitab.org/
@@ -18,7 +19,7 @@ methods, statistical computing methods, data visualization, regression analysis,
 
 - 📫 How to reach me **rrambhia22@gmail.com**
 
-- 😄 Pronouns: Programmer/She/Her/Hers
+- 😄 Pronouns: She/Her/Hers
 
 - 💬 Ask me about **Python, R Programming, SQL, Exploratory Analysis, Data Visualization (Tableau, PowerBI, Qlik), Data Analytics, Alteryx, Machine Learning, Streamlit, AWS Cloud**
 
