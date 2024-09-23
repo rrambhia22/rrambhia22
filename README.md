@@ -11,7 +11,7 @@ methods, statistical computing methods, data visualization, regression analysis,
 
 - 🌐 Grace Hopper Celebration (GHC) 2023 Attendee. https://ghc.anitab.org/
   
-- 👨🏽‍🎓 Graduate student from Northeastern University with a master's degree in Data Analytics.
+- 👨🏽‍🎓 Graduate student from Northeastern University with a Master's degree in Data Analytics.
 
 - 👩‍💻 Computer Engineer from the University of Mumbai, India.
 
