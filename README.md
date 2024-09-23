@@ -27,6 +27,8 @@ methods, statistical computing methods, data visualization, regression analysis,
 
 - 📝 Blog: https://rrambhia22.wixsite.com/richarambhia/blog
 
+- 📚 Publication: https://icce2021.apsce.net/wp-content/uploads/2021/12/ICCE2021-Vol.I-PP.-321-326.pdf
+
 
 
 <h3 align="left">Connect with me</h3>
