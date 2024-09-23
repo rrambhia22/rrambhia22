@@ -37,7 +37,7 @@ methods, statistical computing methods, data visualization, regression analysis,
 </p>
 
 <h3 align="left">Follow my Tableau Profile</h3>
-<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" alt="rrambhia22" height="70" width="110"/> </a> 
+<p align="left"> <a href="https://public.tableau.com/app/profile/richarambhia" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/640px-Tableau_Logo.png" alt="rrambhia22" height="60" width="110"/> </a> 
 </p>
 
 <h3 align="left">Languages, Tools, Libraries</h3>
